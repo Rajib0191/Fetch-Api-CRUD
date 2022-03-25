@@ -1,0 +1,10 @@
+.user__section {
+  background: #f6f7f8;
+}
+.user__row__container {
+  /* background: #ffffff; */
+}
+.delete__btn,
+.edit__btn {
+  margin: 0 10px;
+}
